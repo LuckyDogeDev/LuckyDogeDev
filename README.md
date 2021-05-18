@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/LuckyDogeDev/LuckyDogeDev/master/assets/LDoge.png" alt="LuckyDoge">
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![](https://komarev.com/ghpvc/?username=luckydogedev&label=Profile%20views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=luckydogedev&label=Profile%20views&color=0e75b6&style=flat)
 </br>
 
 <h3 align="left">Languages and Tools:</h3>
