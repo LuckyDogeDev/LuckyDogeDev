@@ -36,8 +36,8 @@ The Official Profile of the LuckyDogeDev!
 
 <a href="https://github.com/LuckyDogeDev/LuckyDogeDev">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyDogeDev&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyDogeDev&theme=gruvbox" />
 </a>
 <a href="https://github.com/LuckyDogeDev/LuckyDogeDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuckyDogeDev&show_icons=true&theme=monokai&line_height=40&count_private=true&include_all_commits=true" alt="LuckyDogeDev github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuckyDogeDev&show_icons=true&theme=gruvbox&line_height=40&count_private=true&include_all_commits=true" alt="LuckyDogeDev github stats" />
 </a>
