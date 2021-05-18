@@ -18,7 +18,7 @@
 <a href="https://ethereum.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" alt="qt" width="40" height="40"/> </a> 
 <a href="https://ethereum.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="qt" width="40" height="40"/> </a></p>
 
-<a href="https://twitter.com/LDOGEofficial"> <img align="center" alt="$LDOGE Twitter" width="21px" src="https://raw.githubusercontent.com/LuckyDogeDev/LuckyDogeDev/master/assets/twitter.png" /></a>
+<a href="https://twitter.com/LDOGEofficial"> <img align="center" alt="$LDOGE Twitter" width="21px" src="https://raw.githubusercontent.com/LuckyDogeDev/LuckyDogeDev/master/assets/twitter.svg" /></a>
 
 <img src="https://raw.githubusercontent.com/LuckyDogeDev/LuckyDogeDev/master/assets/LDoge.png" alt="LuckyDoge">
 
