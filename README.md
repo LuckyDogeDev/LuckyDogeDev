@@ -18,6 +18,9 @@
 <a href="https://ethereum.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" alt="qt" width="40" height="40"/> </a> 
 <a href="https://ethereum.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="qt" width="40" height="40"/> </a></p>
 
+<a href="https://twitter.com/LDOGEofficial"> <img align="center" alt="$LDOGE Twitter" width="21px" src="https://raw.githubusercontent.com/LuckyDogeDev/LuckyDogeDev/master/assets/twitter.png" /></a>
+
+<img src="https://raw.githubusercontent.com/LuckyDogeDev/LuckyDogeDev/master/assets/LDoge.png" alt="LuckyDoge">
 
 The Official Profile of the LuckyDogeDev!
 
@@ -27,12 +30,14 @@ The Official Profile of the LuckyDogeDev!
 
 - LuckySwap Coming Soon! Public Testnet TBD!!
 
-- Please check out the LuckyDoge Git Book for details and the whitepaper of our project!
+- Please check out the LuckyDoge <a href="">Git Book</a> for details and the whitepaper of our project!
+
+- <a href="https://luckydoge.finance">luckydoge.finance</a>
 
 <a href="https://github.com/LuckyDogeDev/LuckyDogeDev">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyDogeDev&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyDogeDev&theme=gruvbox" />
 </a>
 <a href="https://github.com/LuckyDogeDev/LuckyDogeDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuckyDogeDev&show_icons=true&theme=monokai&line_height=40&count_private=true&include_all_commits=true" alt="LuckyDogeDev github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuckyDogeDev&show_icons=true&theme=gruvbox&line_height=40&count_private=true&include_all_commits=true" alt="LuckyDogeDev github stats" />
 </a>
