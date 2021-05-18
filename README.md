@@ -18,6 +18,9 @@
 <a href="https://ethereum.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" alt="qt" width="40" height="40"/> </a> 
 <a href="https://ethereum.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="qt" width="40" height="40"/> </a></p>
 
+<a href="https://twitter.com/LDOGEofficial"> <img align="center" alt="$LDOGE Twitter" width="21px" src="https://raw.githubusercontent.com/LuckyDogeDev/LuckyDogeDev/master/assets/twitter.png" /></a>
+
+<img src="https://raw.githubusercontent.com/LuckyDogeDev/LuckyDogeDev/master/assets/LDoge.png" alt="LuckyDoge">
 
 The Official Profile of the LuckyDogeDev!
 
@@ -27,7 +30,9 @@ The Official Profile of the LuckyDogeDev!
 
 - LuckySwap Coming Soon! Public Testnet TBD!!
 
-- Please check out the LuckyDoge Git Book for details and the whitepaper of our project!
+- Please check out the LuckyDoge <a href="">Git Book</a> for details and the whitepaper of our project!
+
+- <a href="https://luckydoge.finance">luckydoge.finance</a>
 
 <a href="https://github.com/LuckyDogeDev/LuckyDogeDev">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
