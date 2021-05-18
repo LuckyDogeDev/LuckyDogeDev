@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/LuckyDogeDev/LuckyDogeDev/master/assets/LDoge.png" alt="LuckyDoge">
-
 ![](https://komarev.com/ghpvc/?username=luckydogedev&label=Profile%20views&color=0e75b6&style=flat)
 </br>
 
@@ -20,7 +18,10 @@
 <a href="https://ethereum.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" alt="qt" width="40" height="40"/> </a> 
 <a href="https://ethereum.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="qt" width="40" height="40"/> </a></p>
 
-The Official Profile of the LuckyDogeDev!
+The Official Profile of the LuckyDogeDev! 
+
+<img align='center' width="100px" src="https://raw.githubusercontent.com/LuckyDogeDev/LuckyDogeDev/master/assets/LDoge.png" alt="LuckyDoge">
+
 
 - Why LuckyDoge? After seeing a plethora of Doge tokens rise and fall since the Doge hype, most claim to have an AMM coming yet after decent time most projects do not deliver anything, LuckyDoge is looking to provide where others have fallen short.
 
@@ -32,7 +33,7 @@ The Official Profile of the LuckyDogeDev!
 
 - <a href="https://luckydoge.finance">luckydoge.finance</a>
 
-- Official $LDOGE Twitter<a href="https://twitter.com/LDOGEofficial"> <img align="center" alt="$LDOGE Twitter" width="21px" src="https://raw.githubusercontent.com/LuckyDogeDev/LuckyDogeDev/master/assets/twitter.svg" /></a>
+- Official $LDOGE Twitter<a href="https://twitter.com/LDOGEofficial"> <img align="center" alt="$LDOGE Twitter" width="30px" src="https://raw.githubusercontent.com/LuckyDogeDev/LuckyDogeDev/master/assets/twitter.svg" /></a>
 
 
 <a href="https://github.com/LuckyDogeDev/LuckyDogeDev">
