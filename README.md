@@ -29,11 +29,11 @@ The Official Profile of the LuckyDogeDev!
 
 - LuckySwap Coming Soon! Public Testnet TBD!!
 
-- Please check out the LuckyDoge <a href="">Git Book</a> for details and the whitepaper of our project!
+- Please check out the LuckyDoge <a href="https://luckydogedev.gitbook.io/luckydoge/">Git Book</a> for details on our project!
 
 - <a href="https://luckydoge.finance">luckydoge.finance</a>
 
-- Official $LDOGE Twitter<a href="https://twitter.com/LDOGEofficial"> <img align="center" alt="$LDOGE Twitter" width="30px" src="https://raw.githubusercontent.com/LuckyDogeDev/LuckyDogeDev/master/assets/twitter.svg" /></a>
+- <a href="https://twitter.com/LDOGEofficial"> <img align="center" alt="$LDOGE Twitter" width="30px" src="https://raw.githubusercontent.com/LuckyDogeDev/LuckyDogeDev/master/assets/twitter.svg" />Official $LDOGE Twitter</a>
 
 
 <a href="https://github.com/LuckyDogeDev/LuckyDogeDev">
